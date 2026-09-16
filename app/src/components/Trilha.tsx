@@ -95,18 +95,18 @@ type Milestone = {
 const MILESTONES: Milestone[] = [
   {
     text: 'O primeiro Surf Day pós-prova',
-    height: 200,
-    media: { src: '/surf.jpg', alt: 'Surf', placeholder: 'Foto do surf day' },
+    height: 260,
+    media: { src: '/surf.webp', alt: 'Surf', placeholder: 'Foto do surf day' },
   },
   {
     text: 'Tardes no Café',
-    height: 200,
-    media: { src: '/cafe.jpg', alt: 'Café', placeholder: 'Foto do café' },
+    height: 260,
+    media: { src: '/cafe.webp', alt: 'Café', placeholder: 'Foto do café' },
   },
   {
     text: 'Cinemas e Noites de Jogo',
-    height: 200,
-    media: { src: '/cinema.jpg', alt: 'Cinema', placeholder: 'Foto do cinema' },
+    height: 220,
+    media: { src: '/cinema.webp', alt: 'Cinema', placeholder: 'Foto do cinema' },
   },
   {
     text: 'Corridas e Pedaladas às 5h da manhã',
